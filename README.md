@@ -1,12 +1,16 @@
 # Flask Tutorial
 ![Flask](https://miro.medium.com/max/1760/1*ZDXzEwWqdDwu95G374AM0g.jpeg)
 
-Read blog on Flask Tutorial at https://medium.com/analytics-vidhya/https-medium-com-chirag6891-build-the-first-flask-python-e278b52473f3
-## ML-Model-Flask-Deployment
+Read blog on Flask Tutorial at [Build the first Flask Python web app framework](https://medium.com/analytics-vidhya/https-medium-com-chirag6891-build-the-first-flask-python-e278b52473f3)
+
+## ML Model Flask-Deployment
 This is a demo project to elaborate how Machine Learn Models are deployed on production using Flask API
 
 ### Prerequisites
-You must have Scikit Learn, Pandas (for Machine Leraning Model) and Flask (for API) installed.
+ - Scikit Learn
+ - Pandas 
+ - Numpy
+ - Flask 
 
 ### Project Structure
 This project has four major parts :
@@ -26,6 +30,6 @@ This would create a serialized version of our model into a file model.pkl
 ```
 python app.py
 ```
-By default, flask will run on http://127.0.0.1:5000/.
+By default, flask will run on http://127.0.0.1:5000/ (localhost)
 
-3. Navigate to URL http://127.0.0.1:5000/
+3. Navigate to URL http://127.0.0.1:5000/ (localhost)
