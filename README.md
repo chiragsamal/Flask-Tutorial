@@ -33,3 +33,7 @@ python app.py
 By default, flask will run on http://127.0.0.1:5000/ (localhost)
 
 3. Navigate to URL http://127.0.0.1:5000/ (localhost)
+
+
+### Contributors
+<p align="left"><a href="http://chiragsamal.github.io/"><img src="https://avatars.githubusercontent.com/u/52205244?s=400&u=dd85ae5a28a5cceb54d7dcdbda442341efb0ed45&v=4" width="200px;" alt=""/><br /><sub><b>Chirag Samal</b></sub></a><br /><a href="https://github.com/chiragsamal/Steel-Surface-Defect-Detection/commits?author=chiragsamal" title="Code">💻</a> <a href="https://github.com/chiragsamal/Steel-Surface-Defect-Detection/commits?author=chiragsamal" title="Documentation">📖</a> <a href="#maintenance-chiragsamal" title="Maintenance">🚧</a> <a href="#ideas-chiragsamal" title="Ideas, Planning, & Feedback">🤔</a> <a href="#question-th3c0d3br34ker" title="Answering Questions">💬</a></p>
